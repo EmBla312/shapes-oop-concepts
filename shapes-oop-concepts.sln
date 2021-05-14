@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapes-oop-concepts", "shapes-oop-concepts\shapes-oop-concepts.csproj", "{A04D1B35-EE42-4E5A-B26D-DE51B0547DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04D1B35-EE42-4E5A-B26D-DE51B0547DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04D1B35-EE42-4E5A-B26D-DE51B0547DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04D1B35-EE42-4E5A-B26D-DE51B0547DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04D1B35-EE42-4E5A-B26D-DE51B0547DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC447558-EFE1-4022-94C5-740313E950D7}
+	EndGlobalSection
+EndGlobal
